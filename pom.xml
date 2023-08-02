@@ -219,7 +219,7 @@
     <tag>HEAD</tag>
     <url>http://github.com/jleetutorial/maven-project</url>
   </scm>
-#this line is for to check webhook trigger.
+
 
   <prerequisites>
     <maven>3.0.3</maven>
